@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexToSpeech", "WindowsFormsApp1\TexToSpeech.csproj", "{CAA83159-288E-4929-A554-D5EAAC6AC618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA83159-288E-4929-A554-D5EAAC6AC618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA83159-288E-4929-A554-D5EAAC6AC618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA83159-288E-4929-A554-D5EAAC6AC618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA83159-288E-4929-A554-D5EAAC6AC618}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C090D8-A9A9-47AE-9FE5-0AA140A79009}
+	EndGlobalSection
+EndGlobal
